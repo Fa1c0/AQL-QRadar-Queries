@@ -1,1 +1,2 @@
+Log Source is any of [<Firewall 1> or <Firewall2>]
 payload is any of [fleetdeck.io or level.io or ngrok.com or screenconnect.com or splashtop.com or tailscale.com]
